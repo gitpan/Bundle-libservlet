@@ -4,7 +4,7 @@ package Bundle::libservlet;
 
 require 5.6;
 
-our $VERSION = '0.9.2';
+our $VERSION = '0.9.3';
 
 1;
 __END__
@@ -21,14 +21,16 @@ C<perl -MCPAN -e 'install Bundle::libservlet'>
 
 =head1 CONTENTS
 
-Exception::Class -      for Servlet::Util::Exception
+Exception::Class
 
-Servlet -               for libservlet
+IO::Handle
+
+Servlet
 
 =head1 DESCRIPTION
 
 This bundle includes the libservlet distribution as well as
-B<Exception::Class>.
+B<Exception::Class> and B<IO::Handle>.
 
 =head1 AUTHOR
 
