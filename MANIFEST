@@ -1,4 +1,5 @@
+ChangeLog
 MANIFEST
 Makefile.PL
-libservlet.pm
 README
+libservlet.pm

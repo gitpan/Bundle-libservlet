@@ -4,7 +4,7 @@ package Bundle::libservlet;
 
 require 5.6;
 
-our $VERSION = '0.9.1';
+our $VERSION = '0.9.2';
 
 1;
 __END__
@@ -22,6 +22,8 @@ C<perl -MCPAN -e 'install Bundle::libservlet'>
 =head1 CONTENTS
 
 Exception::Class -      for Servlet::Util::Exception
+
+Servlet -               for libservlet
 
 =head1 DESCRIPTION
 

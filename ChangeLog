@@ -1,0 +1,30 @@
+2001-06-12 11:29   Brian Moseley <bcm@maz.org>
+
+	* ChangeLog: add ChangeLog
+
+2001-06-12 11:22   Brian Moseley <bcm@maz.org>
+
+	* MANIFEST.SKIP: add meta file
+
+2001-06-12 11:22   Brian Moseley <bcm@maz.org>
+
+	* MANIFEST: sync
+
+2001-06-12 11:22   Brian Moseley <bcm@maz.org>
+
+	* MANIFEST: sync
+
+2001-06-12 09:52   Brian Moseley <bcm@maz.org>
+
+	* libservlet.pm: use correct version number
+
+2001-06-12 09:50   Brian Moseley <bcm@maz.org>
+
+	* libservlet.pm: actually include libservlet, and bump version
+	number
+
+2001-06-11 02:01   Brian Moseley <bcm@maz.org>
+
+	* .cvsignore, MANIFEST, Makefile.PL, README, libservlet.pm: add
+	bundle files
+
